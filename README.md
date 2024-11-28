@@ -2,13 +2,7 @@ Here’s a template for a **cool and professional README** that you can customiz
 
 ---
 
-# **🚀 Project Name**
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-[![Contributors](https://img.shields.io/github/contributors/username/repo.svg)](https://github.com/username/repo/graphs/contributors)  
-[![Build Status](https://img.shields.io/github/actions/workflow/status/username/repo/main.yml)](https://github.com/username/repo/actions)  
-[![Website](https://img.shields.io/website?url=https://yourwebsite.com)](https://yourwebsite.com)
-
+# **🚀 Python-game-project-**
 ---
 
 ### **🌟 Overview**
