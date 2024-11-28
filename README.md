@@ -21,17 +21,7 @@ Whether you're [use case 1], [use case 2], or [target audience], this project ma
 - 🔒 Feature 2
 - 🎨 Feature 3
 
----
 
-### **📸 Screenshots**
-
-![Screenshot 1](https://via.placeholder.com/800x400?text=Screenshot+1)  
-<sub>*Short description of the feature shown in the screenshot*</sub>
-
-![Screenshot 2](https://via.placeholder.com/800x400?text=Screenshot+2)  
-<sub>*Another key feature showcased here*</sub>
-
----
 
 ### **📂 Installation**
 
@@ -72,10 +62,6 @@ We ❤️ contributions! To get started:
 5. Open a pull request!
 
 ---
-
-### **🛡️ License**
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.  
 
 ### **⭐ Support Us**
 
